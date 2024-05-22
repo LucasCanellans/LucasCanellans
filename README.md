@@ -1,14 +1,26 @@
 <img src="img/banner.gif" width="200%"/>
 
-# Lucas Canella N.S.
-## title2
-### title3
+<h1 align="center">Lucas Canella N.S.</h1>
 
-text
-<img src="img/infinite-floor.png" align="right" width = "250px"/>
+### Something
+<img src="img/readme.jpg" align="right" width = "250px"/>
+textaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+a
+a
+
+aa
 
 
----
+a
+
+
+a
+a
+
+
+
+<img src="img/rgb.gif"/>
 ❤️
 
 
