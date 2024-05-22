@@ -33,7 +33,7 @@
 
 ### Where to find me
 
-[![Discord](img/discord-icon.png)](https://discord.com/users/1242735780539924520)
+[![Discord](img/discord-icon1.png)](https://discord.com/users/1242735780539924520)
 
 <details>
 <summary><b>Stats</b></summary>
