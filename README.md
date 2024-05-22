@@ -20,7 +20,7 @@ a
 
 
 
-<img src="img/rgb.gif"/>
+<img src="img/rgb.gif" width="200%"/>
 ❤️
 
 
