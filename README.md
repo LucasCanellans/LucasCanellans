@@ -1,4 +1,4 @@
-<img src="img/bannergithub.gif"/>
+<img src="img/banner.gif"/>
 
 # Lucas Canella N.S.
 ## title2
