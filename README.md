@@ -2,7 +2,7 @@
 ## title2
 ### title3
 text
-<img src="img/infinite-floor.png" align="right" />
+<img src="img/infinite-floor.jpg" align="right"/>
 &nbsp;
 [![Name](https://raw.githubusercontent.com/LucasCanellans/LucasCanellans/main/img/discord-icon.png)](https://duckduckgo.com/)
 
