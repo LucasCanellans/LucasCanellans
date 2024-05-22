@@ -28,7 +28,7 @@
 
 ### What I am interested in learning
 
-<img src="img/react-icon.png" width = "80px"/> 
+<img src="img/c-icon.png" width = "80px"/> 
 
 
 ### Where to find me
