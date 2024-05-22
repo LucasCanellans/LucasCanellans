@@ -1,4 +1,4 @@
-<img src="img/banner.gif"/>
+<img src="img/banner.gif" width="200%"/>
 
 # Lucas Canella N.S.
 ## title2
