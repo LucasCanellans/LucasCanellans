@@ -1,4 +1,4 @@
-<img src="img/banner.jpg" width="200%"/>
+<img src="img/banner.gif" width="200%"/>
 
 
 <h1 align="center">Lucas Canella N.S.</h1>
