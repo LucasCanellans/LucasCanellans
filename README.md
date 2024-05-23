@@ -1,4 +1,4 @@
-<div style="background-color: "#36393F">
+
 <img src="img/banner.gif" width="200%"/>
 
 <p align="center"><img src="http://img.shields.io/static/v1?label=Anything&message=Anything%20AnythingAnything&color=GREEN&style=for-the-badge"/></p>
@@ -46,9 +46,11 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 <h3 align="left">Where to find me</h3>
 
 <div align="right">
+
 [![Discord](img/discord-icon1.png)](https://discord.com/users/1242735780539924520)
 [![Spotify](img/spotify-icon.png)](https://open.spotify.com/user/31k6khu3u5tpzhizut76ibudkm7u)
+  
 </div>
 
 <img src="img/rgb.gif" width="200%"/>
-</div>
+
