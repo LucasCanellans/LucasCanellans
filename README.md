@@ -1,4 +1,4 @@
-<img src="img/banner.gif" width="200%"/>
+<img src="img/banner.jpg" width="200%"/>
 
 
 <h1 align="center">Lucas Canella N.S.</h1>
@@ -17,15 +17,15 @@
 &nbsp;
 ### My skills include
 
-<img src="img/html-icon.png" width = "80px"/> <img src="img/css-icon.png" width = "80px"/> <img src="img/js-icon.png" width = "80px"/>
+<img src="img/html-icon.png" width = "70px"/> <img src="img/css-icon.png" width = "70px"/> <img src="img/js-icon.png" width = "70px"/>
 
 ### What I am currently learning
 
-<img src="img/react-icon.png" width = "80px"/> 
+<img src="img/react-icon.png" width = "70px"/> 
 
 ### What I am interested in learning
 
-<img src="img/c-icon.png" width = "80px"/> 
+<img src="img/c-icon.png" width = "70px"/> 
 
 
 ### Where to find me
